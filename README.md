@@ -14,6 +14,7 @@ RANDOMFOREST, SUPER VECTOR MACHINE, DECISION TREE, NAIVE GAUSSIAN BAYES, DEEP LE
 # Enlace del código
 https://colab.research.google.com/drive/1GH8lrCUcx8odTc-rdGRgpPnb37rR08XL?usp=sharing
 # Enlace del video
+https://www.youtube.com/watch?v=JgPvCztKcXY&ab_channel=JeydiAG
 # Enlace de las diapositivas
 https://www.canva.com/design/DAGY3NfzDE8/RqFm9BY4zXHMd5HaElE44A/edit?utm_content=DAGY3NfzDE8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
