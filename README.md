@@ -1,6 +1,6 @@
 # Clasificacion de diabetes con modelos clasicos y Deep Learning
 ![image](https://github.com/user-attachments/assets/3a26b187-52d9-4188-811a-3f833d63e3fd)
-This repository shows the classification of diabetes, using Liberia 'Sklearn' models, and deep learning.
+This repository shows the classification of diabetes, using library 'Sklearn' models, and deep learning.
 # Autores
 Brayan Yesid Quintero Santander 2221707, Juan David Paipa Jaimes 2220062
 # Objetivo
