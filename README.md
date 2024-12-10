@@ -1,4 +1,5 @@
 # Diabetes-Classification
+![image](https://github.com/user-attachments/assets/0e158613-d4b1-4d0f-aa01-d7266dfbceaa)
 This repository shows the classification of diabetes, using Liberia 'Sklearn' models, and deep learning.
 # Autores
 Brayan Yesid Quintero Santander 2221707, Juan David Paipa Jaimes 2220062
